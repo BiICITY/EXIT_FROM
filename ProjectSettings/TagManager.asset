@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - NavAgent
+  - Emissive_Inner
+  - Emissive_Outer
+  - Emissive_Guardian
+  - Light1
+  - Light2
+  - Alter
+  - Ghost
+  - GhostDoor
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - NoBloom
+  - ghostdoor
+  - ReflProbesAndPlanarOnly
+  - PlanarAndCameraOnly
+  - CameraOnly
+  - ReflProbesAndCameraOnly
+  - ReflProbesOnly
+  - Hidden
+  - ghost
+  - 
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  m_RenderingLayers:
+  - Default
